@@ -1,6 +1,6 @@
 # Hi, I'm Ilyes 👋
 
-17-year-old web developer with 6 years of coding.
+17-year-old web developer with 5+ years of passionate coding.
 
 ## Tech
 
